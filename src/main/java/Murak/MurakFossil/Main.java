@@ -1,7 +1,7 @@
 /* im beginner
  *  and i also not good at English
  *  i hope u can enjoy it
- *  ill change this code when i got more knowledge about java 
+ *  ill edit this code when i got more knowledge about java 
  */
 
 package Murak.MurakFossil;
