@@ -1,0 +1,10 @@
+name: MurakFossil-Test
+version: ${project.version}
+main: Murak.MurakFossil.Main
+api-version: 1.16
+authors: [ Murak1203, LeeArCo ]
+description: idonthaveanyidea
+commands:
+  today:
+    usage: /<command>
+    description: testing
