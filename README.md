@@ -1,5 +1,2 @@
-**this is really sucks!**
-=============
-
-im not a developer im a coder 
--------------
+이딴 구린거는 쓰지 맙시다
+===
