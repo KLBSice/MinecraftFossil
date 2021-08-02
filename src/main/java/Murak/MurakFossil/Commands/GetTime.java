@@ -17,7 +17,7 @@ public class GetTime implements CommandExecutor {
     @Override
     public boolean onCommand(CommandSender sender, Command command, String label, String[] args) {
         Player p = (Player)sender;
-        p.sendMessage(dtf.format(now));
+        p.sendMessage("current year, date and time is" + dtf.format(now));
         return true;
     }
 }
