@@ -1,2 +1,3 @@
-이딴 구린거는 쓰지 맙시다
+Minecraft Fossil System
 ===
+Originally devloped by Murak549
